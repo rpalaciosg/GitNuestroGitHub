@@ -2,6 +2,8 @@
 
 Git nuestro que estas en los repos
 Santficados sean tus commits
+Venga a nosotros tu log
+En el locall como en el remote
 Danos hoy nuestro pull de cada día
 Perdona nuestros conflictos
 como también perdonamos los de otros geeks
